@@ -1,5 +1,17 @@
+## Task 1 - Amazon Scraper
 
-# Face Authentication API
+Implemented a Python script to scrape laptop product data from Amazon.in.
+
+Extracted:
+- Image
+- Title
+- Rating
+- Price
+- Ad/Organic result
+
+Output:
+- CSV file with timestamp
+# Task 2 - Face Authentication API
 
 ## Overview
 This project implements Face Verification using FastAPI and DeepFace.
